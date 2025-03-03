@@ -1,7 +1,5 @@
 # finance-dashboard
 
-# Finance Dashboard
-
 ![Finance Dashboard](path/to/your/logo.png) <!-- Optional: Add a logo or header image -->
 
 ## Overview
